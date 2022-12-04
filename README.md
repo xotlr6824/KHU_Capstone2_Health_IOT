@@ -94,9 +94,6 @@ RST		|GPIO25
 #### RaspberryPi
 
 
-SPI-Py : https://github.com/lthiery/SPI-Py
-
-
     sudo apt-get update 
     sudo apt-get install python3-smbus
     sudo apt-get install socket
@@ -104,10 +101,11 @@ SPI-Py : https://github.com/lthiery/SPI-Py
     sudo apt-get install python-dev
     sudo apt-get install python-rpi.gpio
 
-#### Arduino
+#### Flutter Firebase 초기 설정
 
-Reference
-MPU6050 Library : https://github.com/ElectronicCats/mpu6050
+
+https://firebase.google.com/docs/flutter/setup?platform=ios
+
 
 ## DEMO
 
@@ -190,3 +188,13 @@ Firebase_auth를 사용한 회원가입
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48917101/205511796-38199e8b-6dd8-4641-a776-a8ef66f0cb09.gif)
+
+### 참고문헌
+
+SPI-Py : https://github.com/lthiery/SPI-Py
+
+
+MPU6050 Library : https://github.com/ElectronicCats/mpu6050
+
+
+Flutter pakage : https://pub.dev/

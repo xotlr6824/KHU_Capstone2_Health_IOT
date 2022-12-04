@@ -110,14 +110,38 @@ SPI-Py : https://github.com/lthiery/SPI-Py
 MPU6050 Library : https://github.com/ElectronicCats/mpu6050
 
 ## DEMO
-1.
-<img src="https://user-images.githubusercontent.com/48917101/205510318-3525e914-6158-4bfc-9d98-a2d607b29fd6.png" width="400" height="600"/>
 
-<img src="https://user-images.githubusercontent.com/48917101/205510323-9ea1b9f2-a296-4ff5-8d06-dbeac511eedd.png" width="400" height="600"/>
 
-<img src="https://user-images.githubusercontent.com/48917101/205510324-cbf5cfbe-ff92-4356-b47a-f54f9323df0e.png" width="400" height="600"/>
+### 1.회원가입
+Firebase_auth를 사용한 회원가입
 
-<img src="https://user-images.githubusercontent.com/48917101/205510325-458008d6-c212-42e0-bb29-d13bb00f8404.png" width="400" height="600"/>
-<img src="https://user-images.githubusercontent.com/48917101/205510326-5688f9f1-06b5-4319-b2c7-aaa5550b9ad1.png" width="400" height="600"/>
 
 <img src="https://user-images.githubusercontent.com/48917101/205510327-a08ec8de-946a-46f7-b06d-ded1e8d35ef4.png" width="400" height="600"/>
+
+
+### 2.로그인
+
+
+<img src="https://user-images.githubusercontent.com/48917101/205510318-3525e914-6158-4bfc-9d98-a2d607b29fd6.png" width="400" height="600"/>
+
+
+### 3.헬스 달력
+<img src="https://user-images.githubusercontent.com/48917101/205510323-9ea1b9f2-a296-4ff5-8d06-dbeac511eedd.png" width="400" height="600"/>
+
+
+
+### 4. 다른 운동 기구 기록 예시
+<img src="https://user-images.githubusercontent.com/48917101/205510325-458008d6-c212-42e0-bb29-d13bb00f8404.png" width="400" height="600"/>
+
+
+### 5. 칼로리 소비량 예시
+<img src="https://user-images.githubusercontent.com/48917101/205510324-cbf5cfbe-ff92-4356-b47a-f54f9323df0e.png" width="400" height="600"/>
+
+
+### 6. 운동 데이터
+<img src="https://user-images.githubusercontent.com/48917101/205510326-5688f9f1-06b5-4319-b2c7-aaa5550b9ad1.png" width="400" height="600"/>
+
+
+
+### 7. 기울기 측정 시각화
+<img src="https://user-images.githubusercontent.com/48917101/205510794-60e66358-8fab-4576-a6ce-fbe191e43c4b.png" width="400" height="600"/>

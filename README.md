@@ -198,3 +198,6 @@ MPU6050 Library : https://github.com/ElectronicCats/mpu6050
 
 
 Flutter pakage : https://pub.dev/
+
+
+Firebase docs : https://firebase.google.com/docs/

@@ -129,11 +129,15 @@ Firebase_auth를 사용한 회원가입
 <img src="https://user-images.githubusercontent.com/48917101/205510323-9ea1b9f2-a296-4ff5-8d06-dbeac511eedd.png" width="400" height="600"/>
 
 
+운동을 한 날짜를 클릭하면 운동한 기구들이 나온다.
+
 
 ### 4. 다른 운동 기구 기록 예시
 
 
 <img src="https://user-images.githubusercontent.com/48917101/205510325-458008d6-c212-42e0-bb29-d13bb00f8404.png" width="400" height="600"/>
+
+
 
 
 ### 5. 칼로리 소비량 예시
@@ -142,17 +146,28 @@ Firebase_auth를 사용한 회원가입
 <img src="https://user-images.githubusercontent.com/48917101/205510324-cbf5cfbe-ff92-4356-b47a-f54f9323df0e.png" width="400" height="600"/>
 
 
+주간 칼로리 소비량을 예시로 든 차트이다.
+
+
 ### 6. 운동 데이터
 
 
 <img src="https://user-images.githubusercontent.com/48917101/205510326-5688f9f1-06b5-4319-b2c7-aaa5550b9ad1.png" width="400" height="600"/>
 
 
+측정한 데이터를 나타낸 화면이다.
+
 
 ### 7. 기울기 측정 시각화
 
 
 <img src="https://user-images.githubusercontent.com/48917101/205510794-60e66358-8fab-4576-a6ce-fbe191e43c4b.png" width="400" height="600"/>
+
+
+mpu6050을 통해 얻어낸 기울기 데이터를 시각화 한 차트이다.
+
+
+y축 위에서 아래로 시간의 흐름, x축 좌/우는 쏠림 정도를 나타낸다.
 
 
 ### 데모영상

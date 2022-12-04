@@ -183,6 +183,9 @@ Firebase_auth를 사용한 회원가입
 4. 어플리케이션과 연동된 모습
 
 
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/48917101/205512968-66a00c35-e835-47f0-a602-7f7cb4cdf951.gif)
+
+
 5. 어플리케이션 전체 모습
 
 

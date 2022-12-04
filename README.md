@@ -157,4 +157,12 @@ Firebase_auth를 사용한 회원가입
 
 
 
-2.
+2. 한 세트 종료 후 카드 체크하여 다음 세트 측정 하는 모습
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/48917101/205512218-14dfe772-86e1-40ff-a9fa-cc7754f277cb.gif)
+
+
+3. firestore에 저장된 데이터의 모습
+
+
+
+4. 

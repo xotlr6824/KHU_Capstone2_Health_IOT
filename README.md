@@ -138,6 +138,7 @@ Firebase_auth를 사용한 회원가입
 <img src="https://user-images.githubusercontent.com/48917101/205510325-458008d6-c212-42e0-bb29-d13bb00f8404.png" width="400" height="600"/>
 
 
+다른 여러 기구를 했을 때 나타나는 예시이다.
 
 
 ### 5. 칼로리 소비량 예시

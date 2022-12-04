@@ -152,3 +152,4 @@ Firebase_auth를 사용한 회원가입
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48917101/205511796-38199e8b-6dd8-4641-a776-a8ef66f0cb09.gif)
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48917101/205512035-b13b08e8-ab08-4ab0-bea3-6080e2d03199.gif)

@@ -149,4 +149,6 @@ Firebase_auth를 사용한 회원가입
 
 ### 데모영상
 
-![데모어플](https://user-images.githubusercontent.com/48917101/205511481-c885bbe5-bb79-4ae5-9054-d23b30999472.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48917101/205511796-38199e8b-6dd8-4641-a776-a8ef66f0cb09.gif)
+

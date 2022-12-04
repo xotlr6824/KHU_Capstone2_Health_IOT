@@ -145,3 +145,8 @@ Firebase_auth를 사용한 회원가입
 
 ### 7. 기울기 측정 시각화
 <img src="https://user-images.githubusercontent.com/48917101/205510794-60e66358-8fab-4576-a6ce-fbe191e43c4b.png" width="400" height="600"/>
+
+
+### 데모영상
+
+![데모어플](https://user-images.githubusercontent.com/48917101/205511481-c885bbe5-bb79-4ae5-9054-d23b30999472.gif)

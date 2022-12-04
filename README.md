@@ -101,13 +101,16 @@ RST		|GPIO25
     sudo apt-get install python-dev
     sudo apt-get install python-rpi.gpio
 
-#### Flutter Firebase 초기 설정
+#### Flutter / Firebase 초기 설정
 
 
 https://firebase.google.com/docs/flutter/setup?platform=ios
 
 
 ## DEMO
+
+
+### 측정 방법
 
 
 ### 1.회원가입

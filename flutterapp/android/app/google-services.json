@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "658666695948",
+    "firebase_url": "https://sikproject-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sikproject",
+    "storage_bucket": "sikproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658666695948:android:7313c8665cb00a1be2ed29",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-5YQpZwtrKfG8sAGZxJdr_tZHvy27_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658666695948-0fulcv74kkhimn5b9vsusrg2lre8jitr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658666695948:android:10b9a9a09c954242e2ed29",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-5YQpZwtrKfG8sAGZxJdr_tZHvy27_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658666695948-0fulcv74kkhimn5b9vsusrg2lre8jitr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658666695948:android:f45a12e30335e6fae2ed29",
+        "android_client_info": {
+          "package_name": "com.example.fluttergraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-5YQpZwtrKfG8sAGZxJdr_tZHvy27_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658666695948-tntqt9ru3f8u03ba3cdn8iigpif686vk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658666695948-0fulcv74kkhimn5b9vsusrg2lre8jitr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iotApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

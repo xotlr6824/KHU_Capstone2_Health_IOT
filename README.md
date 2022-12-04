@@ -89,7 +89,6 @@ RST		|GPIO25
 
 
 ----
-### Setup
 
 
 #### RaspberryPi
@@ -107,6 +106,7 @@ SPI-Py : https://github.com/lthiery/SPI-Py
 
 #### Arduino
 
+Reference
 MPU6050 Library : https://github.com/ElectronicCats/mpu6050
 
 ## DEMO
@@ -126,43 +126,64 @@ Firebase_auth를 사용한 회원가입
 
 
 ### 3.헬스 달력
+
+
 <img src="https://user-images.githubusercontent.com/48917101/205510323-9ea1b9f2-a296-4ff5-8d06-dbeac511eedd.png" width="400" height="600"/>
 
 
 
 ### 4. 다른 운동 기구 기록 예시
+
+
 <img src="https://user-images.githubusercontent.com/48917101/205510325-458008d6-c212-42e0-bb29-d13bb00f8404.png" width="400" height="600"/>
 
 
 ### 5. 칼로리 소비량 예시
+
+
 <img src="https://user-images.githubusercontent.com/48917101/205510324-cbf5cfbe-ff92-4356-b47a-f54f9323df0e.png" width="400" height="600"/>
 
 
 ### 6. 운동 데이터
+
+
 <img src="https://user-images.githubusercontent.com/48917101/205510326-5688f9f1-06b5-4319-b2c7-aaa5550b9ad1.png" width="400" height="600"/>
 
 
 
 ### 7. 기울기 측정 시각화
+
+
 <img src="https://user-images.githubusercontent.com/48917101/205510794-60e66358-8fab-4576-a6ce-fbe191e43c4b.png" width="400" height="600"/>
 
 
 ### 데모영상
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/48917101/205511796-38199e8b-6dd8-4641-a776-a8ef66f0cb09.gif)
 
 1. rfid 리더기에 카드 태깅 후 운동 데이터를 받아오는 모습
+
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48917101/205512035-b13b08e8-ab08-4ab0-bea3-6080e2d03199.gif)
 
 
 
 2. 한 세트 종료 후 카드 체크하여 다음 세트 측정 하는 모습
+
+
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/48917101/205512218-14dfe772-86e1-40ff-a9fa-cc7754f277cb.gif)
 
 
 3. firestore에 저장된 데이터의 모습
 
 
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/48917101/205512440-ab15c900-6e67-4b95-a303-d97aeda3bf81.gif)
 
-4. 
+
+4. 어플리케이션과 연동된 모습
+
+
+5. 어플리케이션 전체 모습
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/48917101/205511796-38199e8b-6dd8-4641-a776-a8ef66f0cb09.gif)

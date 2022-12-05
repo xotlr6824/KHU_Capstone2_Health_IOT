@@ -3,6 +3,8 @@
 ## IOT Health Training 장비 개발
 
 
+가속도, 자이로 센서 / 거리센서 등을 활용하여 헬스 정보를 기록하는 장비를 개발한다.
+
 
 ### 2016104103 컴퓨터공학과 곽태식
 
@@ -116,7 +118,22 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 #### 랫 풀 다운 머신
 
 
+
+
+
 #### 부착 사진
+
+
+<img src="https://user-images.githubusercontent.com/48917101/205531295-90983499-41aa-46ce-9b16-efb084d9716d.jpg" width="400" height="600"/>
+
+
+봉에 아두이노와 HC-06, mpu6050을 부착한 사진이다.
+
+
+<img src="https://user-images.githubusercontent.com/48917101/205531301-cf95e8da-e2c2-4cb3-bff8-0772a183083d.JPG" width="400" height="600"/>
+
+
+라즈베리파이와 TOF10120, MFRC522를 부착한 사진이다.
 
 
 ## 사용자 화면
@@ -200,7 +217,7 @@ y축 위에서 아래로 시간의 흐름, x축 좌/우는 쏠림 정도를 나�
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/48917101/205512218-14dfe772-86e1-40ff-a9fa-cc7754f277cb.gif)
 
 
-3. firestore에 저장된 데이터의 모습
+3. 10초동안 동작이 없으면 세트가 종료되고 firestore에 저장된 데이터의 모습
 
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/48917101/205512440-ab15c900-6e67-4b95-a303-d97aeda3bf81.gif)

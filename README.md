@@ -3,7 +3,13 @@
 ## IOT Health Training 장비 개발
 
 
-가속도, 자이로 센서 / 거리센서 등을 활용하여 헬스 정보를 기록하는 장비를 개발한다.
+가속도, 자이로 센서 / 거리센서 등을 활용하여 헬스 정보를 기록하는 IOT 장비를 개발한다.
+
+
+운동 중, 후에 헬스 루틴을 직접 기록하는 번거로움을 줄이는 것을 목적으로 한다.
+
+
+또한 사용자에게 쉽게 정보 전달을 하기 위해 어플리케이션을 통해 제공한다.
 
 
 ### 2016104103 컴퓨터공학과 곽태식
@@ -118,7 +124,7 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 #### 랫 풀 다운 머신
 
 
-<img src="https://user-images.githubusercontent.com/48917101/205532329-e2b79c08-fa2f-4ea2-99ee-080025a3d5da.png"width="400" height="600"/>
+<img src="https://user-images.githubusercontent.com/48917101/205532329-e2b79c08-fa2f-4ea2-99ee-080025a3d5da.png" width="400" height="600"/>
 
 
 랫풀 다운 머신을 선정하여 실험하였다.

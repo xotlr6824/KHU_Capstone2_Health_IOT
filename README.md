@@ -145,6 +145,36 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 라즈베리파이와 TOF10120, MFRC522를 부착한 사진이다.
 
 
+
+### 데모영상
+
+
+
+1. rfid 리더기에 카드 태깅 후 운동 데이터를 받아오는 모습
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48917101/205512035-b13b08e8-ab08-4ab0-bea3-6080e2d03199.gif)
+
+
+
+2. 한 세트 종료 후 카드 체크하여 다음 세트 측정 하는 모습
+
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/48917101/205512218-14dfe772-86e1-40ff-a9fa-cc7754f277cb.gif)
+
+
+3. 10초동안 동작이 없으면 세트가 종료되고 firestore에 저장된 데이터의 모습
+
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/48917101/205512440-ab15c900-6e67-4b95-a303-d97aeda3bf81.gif)
+
+
+4. 어플리케이션과 연동된 모습
+
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/48917101/205512968-66a00c35-e835-47f0-a602-7f7cb4cdf951.gif)
+
+
 ## 사용자 화면
 
 
@@ -209,33 +239,6 @@ mpu6050을 통해 얻어낸 기울기 데이터를 시각화 한 차트이다.
 y축 위에서 아래로 시간의 흐름, x축 좌/우는 쏠림 정도를 나타낸다.
 
 
-### 데모영상
-
-
-
-1. rfid 리더기에 카드 태깅 후 운동 데이터를 받아오는 모습
-
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48917101/205512035-b13b08e8-ab08-4ab0-bea3-6080e2d03199.gif)
-
-
-
-2. 한 세트 종료 후 카드 체크하여 다음 세트 측정 하는 모습
-
-
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/48917101/205512218-14dfe772-86e1-40ff-a9fa-cc7754f277cb.gif)
-
-
-3. 10초동안 동작이 없으면 세트가 종료되고 firestore에 저장된 데이터의 모습
-
-
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/48917101/205512440-ab15c900-6e67-4b95-a303-d97aeda3bf81.gif)
-
-
-4. 어플리케이션과 연동된 모습
-
-
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/48917101/205512968-66a00c35-e835-47f0-a602-7f7cb4cdf951.gif)
 
 
 5. 어플리케이션 전체 모습

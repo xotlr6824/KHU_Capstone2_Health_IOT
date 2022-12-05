@@ -118,7 +118,10 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 #### 랫 풀 다운 머신
 
 
+<img src="https://user-images.githubusercontent.com/48917101/205532329-e2b79c08-fa2f-4ea2-99ee-080025a3d5da.png"width="400" height="600"/>
 
+
+랫풀 다운 머신을 선정하여 실험하였다.
 
 
 #### 부착 사진
